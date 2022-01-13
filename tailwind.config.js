@@ -7,6 +7,9 @@ module.exports = {
       colors: {
         teal: colors.teal,
         cyan: colors.cyan,
+        logo_coffee: '#FFDD00',
+        logo_linkedin: '#0A66C2',
+        logo_github: '#181717',
       },
     },
   },
