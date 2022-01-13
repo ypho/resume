@@ -1,0 +1,21 @@
+{
+  "name": "ypho-resume",
+  "description": "My resume, built with TailwindCSS",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "mix",
+    "watch": "mix watch",
+    "prod": "mix --production",
+    "serve": "serve ./dist"
+  },
+  "author": "Ivo Geersen",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.4.0",
+    "alpinejs": "^3.7.1",
+    "laravel-mix": "^6.0.18",
+    "serve": "^13.0.2",
+    "tailwindcss": "^3.0.8"
+  }
+}
